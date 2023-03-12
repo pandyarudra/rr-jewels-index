@@ -1,0 +1,16 @@
+.section-title-back:before {
+    line-height: 0px !important;
+    color: transparent !important;
+    height: 0 !important;
+    width: 0px;
+}
+
+.section-title:before {
+    left: 8% !important;
+}
+
+@media screen and (max-width: 768px) {
+    .section-title:before {
+        left: 17% !important;
+    }
+  }
