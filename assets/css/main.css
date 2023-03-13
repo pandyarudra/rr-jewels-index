@@ -558,8 +558,8 @@ a.back-to-top:hover, a.back-to-top:focus {
     top: 0;
   }
   .navbar-brand .brand {
-    width: 70%;
-    height: 39px;
+    width: 65%;
+    height: 36px;
   }
   #mobile-menu {
     display: none;
